@@ -7,3 +7,6 @@ config:
   port: 3306
   user: user
   password: password 
+  db: monitoring
+  telegram_token: 0000000000:AAAAAAAAAAAAAAAAAAAA
+  chat_id: -00000000

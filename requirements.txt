@@ -1,3 +1,6 @@
 ping3
 pyyaml
 pymysql
+pandas
+matplotlib
+pytelegrambotapi
