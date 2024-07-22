@@ -10,7 +10,7 @@ This script pings a list of IP addresses at regular intervals, logs their availa
   - `pandas`
   - `matplotlib`
   - `PyMySQL`
-  - `python-telegram-bot`
+  - `Pytelegrambotapi`
   - `pyyaml`
 
 You can install the required libraries using pip:
@@ -83,7 +83,7 @@ Python 3.x
 pandas
 matplotlib
 PyMySQL
-python-telegram-bot
+Pytelegrambotapi
 pyyaml
 Вы можете установить необходимые библиотеки с помощью pip:
 
